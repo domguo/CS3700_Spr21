@@ -1,0 +1,63 @@
+Process 1 on cn06
+Process 0 on cn05
+Trial 0: Slave 1 - startIndex 500001 endIndex 1000000; part_sum 374999250000
+Trial 0: Master 0 - s0 500000; part_sum 124999750000
+Trial 0 : Execution time (sec) = 0.023744, sum = 499999000000
+Trial 1: Master 0 - s0 500000; part_sum 124999750000
+Trial 1 : Execution time (sec) = 0.000353, sum = 499999000000
+Trial 1: Slave 1 - startIndex 500001 endIndex 1000000; part_sum 374999250000
+Trial 2: Master 0 - s0 500000; part_sum 124999750000
+Trial 2: Slave 1 - startIndex 500001 endIndex 1000000; part_sum 374999250000
+Trial 2 : Execution time (sec) = 0.000396, sum = 499999000000
+Trial 3: Master 0 - s0 500000; part_sum 124999750000
+Trial 3 : Execution time (sec) = 0.000365, sum = 499999000000
+Trial 3: Slave 1 - startIndex 500001 endIndex 1000000; part_sum 374999250000
+Trial 4: Slave 1 - startIndex 500001 endIndex 1000000; part_sum 374999250000
+Trial 4: Master 0 - s0 500000; part_sum 124999750000
+Trial 4 : Execution time (sec) = 0.000406, sum = 499999000000
+Trial 5: Slave 1 - startIndex 500001 endIndex 1000000; part_sum 374999250000
+Trial 5: Master 0 - s0 500000; part_sum 124999750000
+Trial 5 : Execution time (sec) = 0.000376, sum = 499999000000
+Trial 6: Slave 1 - startIndex 500001 endIndex 1000000; part_sum 374999250000
+Trial 6: Master 0 - s0 500000; part_sum 124999750000
+Trial 6 : Execution time (sec) = 0.000550, sum = 499999000000
+Trial 7: Slave 1 - startIndex 500001 endIndex 1000000; part_sum 374999250000
+Trial 7: Master 0 - s0 500000; part_sum 124999750000
+Trial 7 : Execution time (sec) = 0.000386, sum = 499999000000
+Trial 8: Slave 1 - startIndex 500001 endIndex 1000000; part_sum 374999250000
+Trial 8: Master 0 - s0 500000; part_sum 124999750000
+Trial 8 : Execution time (sec) = 0.000360, sum = 499999000000
+Trial 9: Slave 1 - startIndex 500001 endIndex 1000000; part_sum 374999250000
+Trial 9: Master 0 - s0 500000; part_sum 124999750000
+Trial 9 : Execution time (sec) = 0.000378, sum = 499999000000
+Trial 10: Slave 1 - startIndex 500001 endIndex 1000000; part_sum 374999250000
+Trial 10: Master 0 - s0 500000; part_sum 124999750000
+Trial 10 : Execution time (sec) = 0.000370, sum = 499999000000
+Trial 11: Slave 1 - startIndex 500001 endIndex 1000000; part_sum 374999250000
+Trial 11: Master 0 - s0 500000; part_sum 124999750000
+Trial 11 : Execution time (sec) = 0.000381, sum = 499999000000
+Trial 12: Slave 1 - startIndex 500001 endIndex 1000000; part_sum 374999250000
+Trial 12: Master 0 - s0 500000; part_sum 124999750000
+Trial 12 : Execution time (sec) = 0.000378, sum = 499999000000
+Trial 13: Slave 1 - startIndex 500001 endIndex 1000000; part_sum 374999250000
+Trial 13: Master 0 - s0 500000; part_sum 124999750000
+Trial 13 : Execution time (sec) = 0.000372, sum = 499999000000
+Trial 14: Slave 1 - startIndex 500001 endIndex 1000000; part_sum 374999250000
+Trial 14: Master 0 - s0 500000; part_sum 124999750000
+Trial 14 : Execution time (sec) = 0.000378, sum = 499999000000
+Trial 15: Slave 1 - startIndex 500001 endIndex 1000000; part_sum 374999250000
+Trial 15: Master 0 - s0 500000; part_sum 124999750000
+Trial 15 : Execution time (sec) = 0.000372, sum = 499999000000
+Trial 16: Slave 1 - startIndex 500001 endIndex 1000000; part_sum 374999250000
+Trial 16: Master 0 - s0 500000; part_sum 124999750000
+Trial 16 : Execution time (sec) = 0.000379, sum = 499999000000
+Trial 17: Slave 1 - startIndex 500001 endIndex 1000000; part_sum 374999250000
+Trial 17: Master 0 - s0 500000; part_sum 124999750000
+Trial 17 : Execution time (sec) = 0.000352, sum = 499999000000
+Trial 18: Slave 1 - startIndex 500001 endIndex 1000000; part_sum 374999250000
+Trial 18: Master 0 - s0 500000; part_sum 124999750000
+Trial 18 : Execution time (sec) = 0.000374, sum = 499999000000
+Trial 19: Slave 1 - startIndex 500001 endIndex 1000000; part_sum 374999250000
+Trial 19: Master 0 - s0 500000; part_sum 124999750000
+Trial 19 : Execution time (sec) = 0.000383, sum = 499999000000
+Average time for 20 trials = 0.0015526436269283294

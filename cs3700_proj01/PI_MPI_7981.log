@@ -1,0 +1,12 @@
+Process 0 on cn05
+Process 1 on cn06
+Process 7 on cn12
+Process 5 on cn10
+Process 4 on cn09
+Process 6 on cn11
+Process 3 on cn08
+Process 2 on cn07
+Execution time (sec) = 0.039799
+Points: 100000
+Calculated pi: 3.152440
+Delta pi: 0.010847
